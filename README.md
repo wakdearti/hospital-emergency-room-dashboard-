@@ -121,7 +121,7 @@ The project helps identify patterns in:
 - Patient demographic distribution
 
 These insights can support hospital staff in understanding emergency room activity and identifying areas that may require operational attention.
-<a href="https://github.com/wakdearti/hospital-emergency-room-dashboard-/blob/main/Hospital%20Dashboard%20Final%20.jpg">
+<a href="https://github.com/wakdearti/hospital-emergency-room-dashboard-/blob/main/hospital%20dashboard%20final.png">
 View Dashboard
 </a>
 
